@@ -1,6 +1,8 @@
-<div align="center">
-<img src="https://github.com/stwiz/portfolio-iscu/tree/main/img/githubLinkbtn.png" alt="링크버튼" width="100">
-</div>
+<a href="https://stwiz.github.io/portfolio-iscu" target="_blank">
+    <img src="https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png" alt="포트폴리오 바로가기" width="100">
+  </a>
+  
+  <br/>
 
 
 # 🎓 링크버튼 데모 페이지 확인
