@@ -1,5 +1,5 @@
 
-https://stwiz.github.io/portfolio-iscu/
+https://github.com/stwiz/portfolio-iscu/tree/main/img/githubLinkbtn.png
 
 ## 데모 페이지 확인
 - [LinkBtn](https://stwiz.github.io/portfolio-iscu/)
