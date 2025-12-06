@@ -1,12 +1,12 @@
-<a href="https://stwiz.github.io/portfolio-iscu" target="_blank">
-    <img src="https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png" alt="포트폴리오 바로가기" width="100">
-  </a>
-  
-  <br/>
+
 
 
 # 🎓 링크버튼 데모 페이지 확인
-- [링크버튼](https://stwiz.github.io/portfolio-iscu/)
+[![포트폴리오 바로가기](https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png)](https://stwiz.github.io/portfolio-iscu)
+
+<a href="https://stwiz.github.io/portfolio-iscu">
+  <img src="https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png" alt="포트폴리오 바로가기" width="100">
+</a>
 
 ---
 
