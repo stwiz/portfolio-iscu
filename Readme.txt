@@ -1,7 +1,7 @@
 
 https://github.com/stwiz/portfolio-iscu/tree/main/img/githubLinkbtn.png
 
-## 데모 페이지 확인
+# 🎓 링크버튼 데모 페이지 확인
 - [LinkBtn](https://stwiz.github.io/portfolio-iscu/)
 
 # 🎓 Portfolio-ISCU (ISCU 졸업작품 포트폴리오)
