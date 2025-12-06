@@ -1,12 +1,5 @@
-<img width="1943" height="1093" alt="링크버트" src="https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png" />
-
-
-# 🎓 링크버튼 데모 페이지 확인
+# 🎓 링크버튼 페이지 확인
 [![포트폴리오 바로가기](https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png)](https://stwiz.github.io/portfolio-iscu)
-
-<a href="https://stwiz.github.io/portfolio-iscu">
-  <img src="https://raw.githubusercontent.com/stwiz/portfolio-iscu/main/img/githubLinkbtn.png" alt="포트폴리오 바로가기" width="100">
-</a>
 
 ---
 
@@ -17,7 +10,7 @@
 * **프로젝트 갤러리 (Project Gallery)**
   * 주요 작업물들을 카드 형태나 그리드 형식으로 시각화하여 보여줍니다.
   * 각 프로젝트의 상세 설명 및 데모 링크로 연결됩니다.
-* **자기소개 및 이력 (About Me)**
+* **링크버튼 소개 (About Me)**
   * 링크버튼 회사의 가치관, 기술 스택, 서비스 사항을 소개합니다.
 * **연락처 폼 (Contact)**
   * 이메일 또는 SNS 링크를 통해 직접 연락할 수 있는 기능을 제공합니다.
