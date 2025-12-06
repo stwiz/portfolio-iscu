@@ -1,3 +1,53 @@
-포트폴리오 과제입니다.
 
 https://stwiz.github.io/portfolio-iscu/
+
+# 🎓 Portfolio-ISCU (ISCU 졸업작품 포트폴리오)
+
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+---
+
+## ✨ 주요 기능 (Key Features)
+
+* **반응형 웹 디자인 (Responsive Design)**
+  * PC, 태블릿, 모바일 등 다양한 디바이스 환경에 최적화된 레이아웃을 제공합니다.
+* **프로젝트 갤러리 (Project Gallery)**
+  * 주요 작업물들을 카드 형태나 그리드 형식으로 시각화하여 보여줍니다.
+  * 각 프로젝트의 상세 설명 및 데모 링크로 연결됩니다.
+* **자기소개 및 이력 (About Me)**
+  * 링크버튼 회사의 가치관, 기술 스택, 서비스 사항을 소개합니다.
+* **연락처 폼 (Contact)**
+  * 이메일 또는 SNS 링크를 통해 직접 연락할 수 있는 기능을 제공합니다.
+
+---
+
+## 🛠 기술 스택 (Tech Stack)
+
+이 프로젝트는 다음과 같은 기술을 사용하여 개발되었습니다.
+
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+* **Library/Framework:** jQuery (또는 React, Vue 등 사용한 기술 입력)
+* **CSS Framework:** Bootstrap (또는 사용 안 함, Tailwind 등 입력)
+
+### Backend / Tools (해당되는 경우만 남기세요)
+* **Version Control:** Git, GitHub
+* **Deployment:** GitHub Pages (또는 Netlify, Vercel)
+
+---
+
+## 📂 폴더 구조 (Directory Structure)
+
+```bash
+portfolio-iscu/
+├── index.html          # 메인 페이지
+├── css/                # 스타일시트 폴더
+│   ├── style.css
+│   └── responsive.css
+├── js/                 # 자바스크립트 소스 폴더
+│   └── main.js
+├── assets/             # 이미지 및 폰트 리소스
+│   ├── images/
+│   └── fonts/
+└── README.md           # 프로젝트 설명 파일
